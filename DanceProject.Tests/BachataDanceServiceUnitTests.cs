@@ -125,8 +125,5 @@ namespace DanceProject.Tests
 
 			Assert.True(result.IsCorrect);
 		}
-
-
-
 	}
 }
